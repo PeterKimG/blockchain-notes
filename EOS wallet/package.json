@@ -12,7 +12,7 @@
     "ejs": "^2.6.2",
     "eosjs": "^20.0.0",
     "express": "^4.17.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "supervisor": "^0.12.0"
   }
 }
